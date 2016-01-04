@@ -7,8 +7,12 @@ footer{
 table, td, th{
 	vertical-align: middle;
 	border: none;
+	padding: 1em;
 }
 th{
 	border: 3px solid #4B0082; 
 	padding: 10px;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: 'Merriweather', serif;
 }
